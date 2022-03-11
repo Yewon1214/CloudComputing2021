@@ -1,4 +1,4 @@
-#CloudComputing 강의 과제입니다.
+CloudComputing 강의 과제입니다.
 
 
 Stellar by HTML5 UP
